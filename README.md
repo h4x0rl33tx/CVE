@@ -1,2 +1,2 @@
 # CVE
-Below are all CVE I found
+Below are all CVE I found.
